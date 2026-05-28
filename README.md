@@ -17,10 +17,10 @@ still learning, still creating ✦
 
 ---
 
-🌷 SMK RPL student  
-🎨 interested in UI design & cute interfaces  
-☁️ learning frontend little by little  
-💻 designing soft aesthetic projects
+.𑣲  ݁˖  🌷 SMK RPL student  
+.𑣲  ݁˖  🍡 interested in ui design & cute interfaces  
+.𑣲  ݁˖  ☁️ learning frontend little by little  
+.𑣲  ݁˖  🍒 designing soft aesthetic projects
 
 ---
 
