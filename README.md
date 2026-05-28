@@ -1,8 +1,6 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://media.tenor.com/4z0Z94J6c5AAAAAi/cute-anime.gif" width="120"/>
-</p>
+<img src="https://media.tenor.com/mwJXlXcPMLAAAAAi/anime-girl.gif" width="120"/>
 
 # ₊˚⊹♡ hi, i'm kristy ♡
 
@@ -27,6 +25,8 @@ still learning, still creating ✦
 ---
 
 <div align="center">
+
+🌷 instagram : @kristyyadinda_
 
 ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა
 
