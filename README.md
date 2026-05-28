@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 
-<img src="https://media.tenor.com/mwJXlXcPMLAAAAAi/anime-girl.gif" width="120"/>
+
 
 # ₊˚⊹♡ 𝐡𝐢, 𝐢'𝐦 𝐤𝐫𝐢𝐬𝐭𝐲  ♡
 
