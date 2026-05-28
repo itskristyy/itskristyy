@@ -1,8 +1,11 @@
+<p align="center">
+  <img src="https://media.tenor.com/JCnvb5By8qIAAAAi/banner-devider.gif" width="100%">
+</p>
 <div align="center">
 
 <img src="https://media.tenor.com/mwJXlXcPMLAAAAAi/anime-girl.gif" width="120"/>
 
-# ₊˚⊹♡ hi, i'm kristy ♡
+# ₊˚⊹♡ 𝐡𝐢, 𝐢'𝐦 𝐤𝐫𝐢𝐬𝐭𝐲  ♡
 
 soft girl learning ui design 🎀  
 still learning, still creating ✦
@@ -17,10 +20,24 @@ still learning, still creating ✦
 
 ---
 
-.𑣲  ݁˖  🌷 SMK RPL student  
-.𑣲  ݁˖  🍡 interested in ui design & cute interfaces  
+<table align="center">
+<tr>
+<td>
+
+.𑣲  ݁˖  🌷 smk rpl student  
+.𑣲  ݁˖  🎀 interested in ui design & cute interfaces  
 .𑣲  ݁˖  ☁️ learning frontend little by little  
-.𑣲  ݁˖  🍒 designing soft aesthetic projects
+.𑣲  ݁˖  🍒 designing soft aesthetic projects  
+
+</td>
+
+<td>
+
+<img src="https://media.tenor.com/MJ8r-vS609cAAAAi/cute-hello-kitty.gif" width="150">
+
+</td>
+</tr>
+</table>
 
 ---
 
